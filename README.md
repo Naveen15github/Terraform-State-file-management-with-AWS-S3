@@ -15,6 +15,8 @@ Because the state file often contains **sensitive data**, securing it properly i
 
 In this project, I configured **AWS S3** as a **remote backend** to store this state file securely, with support for locking and versioning.
 
+![Alt text](image_url "Optional title")
+
 ---
 
 ## 2. Key Concepts I Learned and Implemented
@@ -91,6 +93,8 @@ I manually created the S3 bucket **before** running Terraform, as Terraform need
 
 ## 4. Terraform Backend Configuration (main.tf)
 
+![Alt text](image_url "Optional title")
+
 Below is the backend configuration I implemented:
 
 ```hcl
@@ -140,6 +144,9 @@ I deployed a sample resource and ensured that:
 * State locking worked during apply
 
 ---
+![Alt text](image_url "Optional title")
+
+![Alt text](image_url "Optional title")
 
 ### Step 3: Apply Infrastructure Changes
 
