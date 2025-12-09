@@ -15,7 +15,7 @@ Because the state file often contains **sensitive data**, securing it properly i
 
 In this project, I configured **AWS S3** as a **remote backend** to store this state file securely, with support for locking and versioning.
 
-![Alt text](image_url "Optional title")
+![Alt text](https://github.com/Naveen15github/Terraform-State-file-management-with-AWS-S3-/blob/023b2e8ed92631b66c65223397be2b602ae9c196/Gemini_Generated_Image_z920qmz920qmz920.png)
 
 ---
 
@@ -93,7 +93,7 @@ I manually created the S3 bucket **before** running Terraform, as Terraform need
 
 ## 4. Terraform Backend Configuration (main.tf)
 
-![Alt text](image_url "Optional title")
+![Alt text](https://github.com/Naveen15github/Terraform-State-file-management-with-AWS-S3-/blob/023b2e8ed92631b66c65223397be2b602ae9c196/Screenshot%20(193).png)
 
 Below is the backend configuration I implemented:
 
@@ -144,9 +144,9 @@ I deployed a sample resource and ensured that:
 * State locking worked during apply
 
 ---
-![Alt text](image_url "Optional title")
+![Alt text](https://github.com/Naveen15github/Terraform-State-file-management-with-AWS-S3-/blob/023b2e8ed92631b66c65223397be2b602ae9c196/Screenshot%20(195).png)
 
-![Alt text](image_url "Optional title")
+![Alt text](https://github.com/Naveen15github/Terraform-State-file-management-with-AWS-S3-/blob/023b2e8ed92631b66c65223397be2b602ae9c196/Screenshot%20(194).png)
 
 ### Step 3: Apply Infrastructure Changes
 
