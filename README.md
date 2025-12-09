@@ -1,4 +1,3 @@
-# Terraform-State-file-management-with-AWS-S3
 ---
 
 # Terraform State File Management with AWS S3 (Remote Backend)
