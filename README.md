@@ -215,11 +215,3 @@ I plan to extend this repository with:
 * CI/CD pipeline integration for Terraform
 
 ---
-
-## 10. Hashtags (For Documentation / LinkedIn)
-
-```
-#Terraform #AWS #DevOps #InfrastructureAsCode #S3Backend #StateManagement #CloudEngineering #IaC #HashiCorp #RemoteBackend
-```
-
----
