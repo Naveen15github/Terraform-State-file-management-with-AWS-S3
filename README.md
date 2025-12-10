@@ -15,7 +15,7 @@ Because the state file often contains **sensitive data**, securing it properly i
 
 In this project, I configured **AWS S3** as a **remote backend** to store this state file securely, with support for locking and versioning.
 
-![Alt text](https://github.com/Naveen15github/Terraform-State-file-management-with-AWS-S3-/blob/023b2e8ed92631b66c65223397be2b602ae9c196/Gemini_Generated_Image_z920qmz920qmz920.png)
+![Alt text]()
 
 ---
 
